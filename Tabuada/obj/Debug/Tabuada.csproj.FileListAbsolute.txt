@@ -1,0 +1,8 @@
+D:\PriscilaC#\Aula19-02\Tabuada\bin\Debug\Tabuada.exe.config
+D:\PriscilaC#\Aula19-02\Tabuada\bin\Debug\Tabuada.exe
+D:\PriscilaC#\Aula19-02\Tabuada\bin\Debug\Tabuada.pdb
+D:\PriscilaC#\Aula19-02\Tabuada\obj\Debug\Tabuada.Form1.resources
+D:\PriscilaC#\Aula19-02\Tabuada\obj\Debug\Tabuada.Properties.Resources.resources
+D:\PriscilaC#\Aula19-02\Tabuada\obj\Debug\Tabuada.csproj.GenerateResource.cache
+D:\PriscilaC#\Aula19-02\Tabuada\obj\Debug\Tabuada.exe
+D:\PriscilaC#\Aula19-02\Tabuada\obj\Debug\Tabuada.pdb

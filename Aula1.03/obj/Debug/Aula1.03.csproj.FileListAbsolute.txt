@@ -1,0 +1,9 @@
+D:\PriscilaC#\Aula19-02\Aula1.03\obj\Debug\Aula1.03.csprojAssemblyReference.cache
+D:\PriscilaC#\Aula19-02\Aula1.03\obj\Debug\Aula1._03.Form1.resources
+D:\PriscilaC#\Aula19-02\Aula1.03\obj\Debug\Aula1._03.Properties.Resources.resources
+D:\PriscilaC#\Aula19-02\Aula1.03\obj\Debug\Aula1.03.csproj.GenerateResource.cache
+D:\PriscilaC#\Aula19-02\Aula1.03\bin\Debug\Aula1.03.exe.config
+D:\PriscilaC#\Aula19-02\Aula1.03\bin\Debug\Aula1.03.exe
+D:\PriscilaC#\Aula19-02\Aula1.03\bin\Debug\Aula1.03.pdb
+D:\PriscilaC#\Aula19-02\Aula1.03\obj\Debug\Aula1.03.exe
+D:\PriscilaC#\Aula19-02\Aula1.03\obj\Debug\Aula1.03.pdb

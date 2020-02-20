@@ -1,0 +1,9 @@
+D:\PriscilaC#\Aula19-02\Aula01 - Exemplo2\bin\Debug\Aula01 - Exemplo2.exe.config
+D:\PriscilaC#\Aula19-02\Aula01 - Exemplo2\bin\Debug\Aula01 - Exemplo2.exe
+D:\PriscilaC#\Aula19-02\Aula01 - Exemplo2\bin\Debug\Aula01 - Exemplo2.pdb
+D:\PriscilaC#\Aula19-02\Aula01 - Exemplo2\obj\Debug\Aula01 - Exemplo2.csprojAssemblyReference.cache
+D:\PriscilaC#\Aula19-02\Aula01 - Exemplo2\obj\Debug\Aula01___Exemplo2.Form1.resources
+D:\PriscilaC#\Aula19-02\Aula01 - Exemplo2\obj\Debug\Aula01___Exemplo2.Properties.Resources.resources
+D:\PriscilaC#\Aula19-02\Aula01 - Exemplo2\obj\Debug\Aula01 - Exemplo2.csproj.GenerateResource.cache
+D:\PriscilaC#\Aula19-02\Aula01 - Exemplo2\obj\Debug\Aula01 - Exemplo2.exe
+D:\PriscilaC#\Aula19-02\Aula01 - Exemplo2\obj\Debug\Aula01 - Exemplo2.pdb

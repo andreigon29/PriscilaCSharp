@@ -1,0 +1,9 @@
+D:\PriscilaC#\Aula19-02\EXEMPLO 04\bin\Debug\EXEMPLO 04.exe.config
+D:\PriscilaC#\Aula19-02\EXEMPLO 04\bin\Debug\EXEMPLO 04.exe
+D:\PriscilaC#\Aula19-02\EXEMPLO 04\bin\Debug\EXEMPLO 04.pdb
+D:\PriscilaC#\Aula19-02\EXEMPLO 04\obj\Debug\EXEMPLO_04.Form1.resources
+D:\PriscilaC#\Aula19-02\EXEMPLO 04\obj\Debug\EXEMPLO_04.Properties.Resources.resources
+D:\PriscilaC#\Aula19-02\EXEMPLO 04\obj\Debug\EXEMPLO 04.csproj.GenerateResource.cache
+D:\PriscilaC#\Aula19-02\EXEMPLO 04\obj\Debug\EXEMPLO 04.exe
+D:\PriscilaC#\Aula19-02\EXEMPLO 04\obj\Debug\EXEMPLO 04.pdb
+D:\PriscilaC#\Aula19-02\EXEMPLO 04\obj\Debug\EXEMPLO 04.csprojAssemblyReference.cache
